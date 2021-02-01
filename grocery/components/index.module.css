@@ -1,0 +1,15 @@
+#container{
+    width: 600px;
+    margin: 0 auto;
+}
+#header{
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 0px;
+}
+#searchContainer{
+    margin: 10px 0px;
+}
+#graphContainer{
+    margin: 10px 0px;
+}

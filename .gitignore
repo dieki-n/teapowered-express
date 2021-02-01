@@ -1,0 +1,7 @@
+teapowered.env
+nginx/
+bin/
+node_modules/
+.vscode/
+thumbnails/
+workspace.code-workspace

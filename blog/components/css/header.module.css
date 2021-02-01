@@ -1,0 +1,26 @@
+#container{
+    text-align: center;
+    line-height: 1.752;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+#title{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none !important;
+    background-color: black;
+    
+    width: fit-content;
+    margin: 10px auto;
+    padding: 0px 20px;
+    border-radius: 0px 5px 0px 5px;
+}
+#title a{
+    color: white;
+    text-decoration: none;
+}
+
+#subtitle{
+    font-size: 0.75em;
+    color: #555;
+}
